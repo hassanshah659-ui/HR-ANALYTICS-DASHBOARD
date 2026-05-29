@@ -79,4 +79,7 @@ The dashboard helps decision-makers:
 <img width="1597" height="844" alt="HR-DASHBOARD 3" src="https://github.com/user-attachments/assets/45b260be-5ec4-4ad5-aad4-d88f597526b3" />
 
 
+Hassan Riaz
+
+
 ## Author
